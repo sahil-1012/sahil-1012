@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Jaiswal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 ---
 🔭 **I'm a Full-Stack MERN (MongoDB, Express.js, React, Node.js) Developer, specializing in web development with a focus on the React MERN stack. My expertise extends to utilizing AWS S3 for storage, Material-UI for user interface design, and exploring the capabilities of Next.js.**
