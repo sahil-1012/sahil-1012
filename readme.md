@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer</h3>
 
 ---
-🔭 **I'm a Full-Stack MERN (MongoDB, Express.js, React, Node.js) Developer, specializing in web development with a focus on the React MERN stack. My expertise extends to utilizing AWS S3 for storage, Material-UI for user interface design, and exploring the capabilities of Next.js.**
+🔭 **I'm a Full-Stack NextJs MERN (MongoDB, Express.js, React, Node.js) Developer, specializing in web development with a focus on the React MERN stack. My expertise extends to utilizing AWS S3 for storage, Tailwind css, Material-UI, ShadCN for user interface design.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
